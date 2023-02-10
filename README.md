@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to [Rishab Kumar Chaurasiya's](https://github.com/git-rishab) profile! <a href="https://github.com/git-rishab"><img src="https://assets1.lottiefiles.com/packages/lf20_dgBN4P.json" width="25px"></a>
+# Welcome to [Rishab Kumar Chaurasiya's](https://github.com/git-rishab) profile! <a href="https://github.com/git-rishab"><img src="https://user-images.githubusercontent.com/114337213/218172988-b0ca4c49-86a7-4759-a465-ae0c8d95f4f2.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/" target="_blank"><img align="center" src="https://github.com/git-rishab/git-rishab/blob/main/linkedin.png?raw=true" alt="linkedin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337213/218171713-ff1cece8-2363-406a-80db-0fec0f36f9ef.png" alt="linkedin" height="30" width="30" /></a>
 &nbsp;
-<a href="https://twitter.com/tweet_rishab" target="_blank"><img align="center" src="https://github.com/git-rishab/git-rishab/blob/main/twitter.png?raw=true" alt="twitter" height="30" width="30" /></a>
+<a href="https://twitter.com/tweet_rishab" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337213/218172060-3c4623a5-4235-4544-9c0b-3465eb158f74.png" alt="twitter" height="30" width="30" /></a>
 &nbsp;
-<a href="https://www.instagram.com/ig__rishab/" target="_blank"><img align="center" src="https://github.com/git-rishab/git-rishab/blob/main/instagram.png?raw=true" alt="instagram" height="30" width="30" /></a>
+<a href="https://www.instagram.com/ig__rishab/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337213/218172043-fea3afcc-d2e3-4a51-9eca-d060426d5e09.png" alt="instagram" height="30" width="30" /></a>
 &nbsp;
 
 
@@ -34,7 +34,7 @@ As a Web Developer, I enjoy using my obsessive attention to detail, my unequivoc
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/git-rishab/git-rishab/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/114337213/218172084-62191cef-94b6-4087-a4c5-2f07b272ae61.gif" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
