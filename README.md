@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Welcome to [Rishab Kumar Chaurasiya's](https://github.com/git-rishab) profile! <a href="https://github.com/git-rishab"><img src="https://assets1.lottiefiles.com/packages/lf20_dgBN4P.json" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/" target="_blank"><img align="center" src="./linkedin.png" alt="aswin-barath" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/" target="_blank"><img align="center" src="https://github.com/git-rishab/git-rishab/blob/main/linkedin.png?raw=true" alt="linkedin" height="30" width="30" /></a>
 &nbsp;
-<a href="https://twitter.com/tweet_rishab" target="_blank"><img align="center" src="./twitter.png" alt="AswinBarath2" height="30" width="30" /></a>
+<a href="https://twitter.com/tweet_rishab" target="_blank"><img align="center" src="https://github.com/git-rishab/git-rishab/blob/main/twitter.png?raw=true" alt="twitter" height="30" width="30" /></a>
 &nbsp;
-<a href="https://www.instagram.com/ig__rishab/" target="_blank"><img align="center" src="./instagram.png" alt="aswin_barath_" height="30" width="30" /></a>
+<a href="https://www.instagram.com/ig__rishab/" target="_blank"><img align="center" src="https://github.com/git-rishab/git-rishab/blob/main/instagram.png?raw=true" alt="instagram" height="30" width="30" /></a>
 &nbsp;
 
 
@@ -34,7 +34,7 @@ As a Web Developer, I enjoy using my obsessive attention to detail, my unequivoc
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="./coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/git-rishab/git-rishab/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
