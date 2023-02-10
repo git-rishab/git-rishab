@@ -15,20 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to [Rishab Kumar Chaurasiya's](https://github.com/git-rishab) profile! <a href="https://github.com/git-rishab"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Rishab Kumar Chaurasiya's](https://github.com/git-rishab) profile! <a href="https://github.com/git-rishab"><img src="https://assets1.lottiefiles.com/packages/lf20_dgBN4P.json" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/" target="_blank"><img align="center" src="./linkedin.png" alt="aswin-barath" height="30" width="30" /></a>
 &nbsp;
-<a href="https://twitter.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://twitter.com/tweet_rishab" target="_blank"><img align="center" src="./twitter.png" alt="AswinBarath2" height="30" width="30" /></a>
 &nbsp;
-<a href="https://www.instagram.com/aswin_barath_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ig__rishab/" target="_blank"><img align="center" src="./instagram.png" alt="aswin_barath_" height="30" width="30" /></a>
 &nbsp;
 
 
 
-## Glad to see you here! &nbsp; !
+## Glad to see you here &nbsp; !
 
 I am a Full-stack web Developer.
 
@@ -36,7 +34,7 @@ As a Web Developer, I enjoy using my obsessive attention to detail, my unequivoc
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="./coding.gif" width="408" height="318" />
 
 
 ### Talking about Personal Stuffs:
@@ -88,41 +86,14 @@ That's why I like to make things that make a difference.
 
 ---
 
-## 📊 Stats
-
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since OCT 03 2022</b>
-
-📊 <b>This Week I Spent My Time On</b>
-
-<!--START_SECTION:waka-->
-```text
-Markdown     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
-Java         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
-JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-```
-<!--END_SECTION:waka-->
 
 
-<details>
-  <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
-  <br/>
-
-  <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
-  </p>
-
-</details>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=git-rishab&bg_color=f6eff2&color=534652&line=f990f2&point=574c4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-<!-- <details> -->
+
  ### 🔥 My Stats :
-  <!-- <br/> -->
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-rishab)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-rishab)](https://github.com/git-rishab/github-readme-stats)
-
-<br />
-
-<!-- </details> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-rishab)]
