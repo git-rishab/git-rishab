@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to [Rishab Kumar Chaurasiya's](https://github.com/git-rishab) profile! <a href="https://github.com/git-rishab"><img src="https://user-images.githubusercontent.com/114337213/218176089-50d3debb-305a-447f-9d48-fd21e34dd4ed.gif" width="40px"></a>
+# Welcome to [Rishab Kumar Chaurasiya's](https://github.com/git-rishab) profile! <a href="https://github.com/git-rishab"><img src="https://user-images.githubusercontent.com/114337213/218177562-625f81fc-c4bd-4a4d-a56b-0d8d6c3d6d5e.png" width="40px"></a>
 
 <a href="https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337213/218171713-ff1cece8-2363-406a-80db-0fec0f36f9ef.png" alt="linkedin" height="30" width="30" /></a>
 &nbsp;
