@@ -42,7 +42,7 @@ That's why I like to make things that make a difference.
 - 👨‍🎓 I'm a **Full Stack Web Developer**
 - 📬 How to reach me: [rishabkumarchaurasiya@gmail.com](mailto:rishabkumarchaurasiya@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1crOMn8lyCauRlQSO78BKByEhRoN-cobL/view?usp=sharing)
-
+- [Portfolio](https://git-rishab.github.io/)
 ---
 
 ## 🛠️ My favorite tools
