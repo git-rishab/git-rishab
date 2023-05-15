@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337213/218171713-ff1cece8-2363-406a-80db-0fec0f36f9ef.png" alt="linkedin" height="30" width="30" /></a>
 &nbsp;
-<a href="https://twitter.com/tweet_rishab" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337213/218172060-3c4623a5-4235-4544-9c0b-3465eb158f74.png" alt="twitter" height="30" width="30" /></a>
-&nbsp;
-<a href="https://www.instagram.com/ig__rishab/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/114337213/218172043-fea3afcc-d2e3-4a51-9eca-d060426d5e09.png" alt="instagram" height="30" width="30" /></a>
-&nbsp;
 
 
 
