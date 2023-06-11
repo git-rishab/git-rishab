@@ -80,7 +80,7 @@ That's why I like to make things that make a difference.
 
 
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-rishab&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true)]
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-rishab&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true)
 
 ---
 
