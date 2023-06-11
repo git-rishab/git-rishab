@@ -80,13 +80,13 @@ That's why I like to make things that make a difference.
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=git-rishab&bg_color=f6eff2&color=534652&line=f990f2&point=574c4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-rishab&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true)]
 
 ---
 
  ### 🔥 My Stats :
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-rishab)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-rishab)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-rishab&theme=buefy&layout=compact)
