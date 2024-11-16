@@ -71,10 +71,6 @@ That's why I like to make things that make a difference.
 | The Pretty Petals   | This e-commerce platform, a replica of 1800flowers.com, focuses on providing flower arrangements for any occasion. | HTML, CSS, Javascript, JSON-server    | E-commerce Application   | - <a href="https://theprettypetals.netlify.app/" target="_blank">Deployed</a> - <a href="https://github.com/git-rishab/1800flowers.com-clone" target="_blank">Github</a>   |
 Parenting Assist | A fine-tuned, Generative AI chat app empowering effective parenting with intelligent insights. | Angular, Flask, MongoDB, OpenAI | AI-Driven Parenting Chat Application | - [Deployed](https://parent-guide.vercel.app/) - [GitHub](https://github.com/git-rishab/parenting-assist)
 
----
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=git-rishab&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true)
----
-
  ### 🔥 My Stats :
 <br/>
 
